@@ -29,6 +29,6 @@
   <h2 align="center">Let's keep in touch 👇</h2>
 </p>
 <p align="center">
-  <img align="center" width="auto" height="25px" src="https://img.shields.io/twitter/follow/kensayo?color=blue&style=for-the-badge">
+  <img align="center" width="auto" height="25px" href="https://twitter.com/kensayo" src="https://img.flaticon.com/icons/png/512/124/124021.png">
   <img align="center" width="auto" height="25px" src="https://img.shields.io/github/followers/kensayo?color=9cf&style=for-the-badge">
 </p>
