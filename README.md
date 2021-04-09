@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <h2 align="center">Let'skeep in touch 👇</h2>
+  <h2 align="center">Let's keep in touch 👇</h2>
 </p>
 <p align="center">
   <img align="center" width="auto" height="25px" src="https://img.shields.io/twitter/follow/kensayo?color=blue&style=for-the-badge">
