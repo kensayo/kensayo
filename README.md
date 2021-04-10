@@ -10,14 +10,6 @@
   <img width="auto" height="25px" src="https://img.shields.io/badge/focus-frontend-brightgreen?style=for-the-badge">
   <img width="auto" height="25px" src="https://img.shields.io/github/followers/kensayo?style=for-the-badge">
 </p>
-<p align="center">
-  <h2 align="center">Languages I like 👇</h2>
-</p>
-<p align="center">
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
- </p>
 
 <p align="center">
 <img width="auto" height="200px" src="https://github-readme-stats.vercel.app/api?username=kensayo&show_icons=true&theme=dark">
