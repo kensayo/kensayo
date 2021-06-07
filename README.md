@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://alpha-centauri-production.s3.amazonaws.com/uploads/content/174/header_image/header.jpg" align="center" alt="GitHub Readme Stats" />
+ <!--<img width="100%" src="https://alpha-centauri-production.s3.amazonaws.com/uploads/content/174/header_image/header.jpg" align="center" alt="GitHub Readme Stats" />-->
  <h1 align="center">Hello, I'm Kenny 👋 </br> Learning how to be a Full Stack Web Developer at Microverse💻👨‍💻</h1>
 </p>
 
