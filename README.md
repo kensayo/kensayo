@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100%" src="banner.png" align="center" alt="GitHub Readme Stats" />
- <h1 align="center">Hello, I'm Kenny 👋 </br> Learning how to be a Full Stack Web Developer at Microverse💻👨‍💻</h1>
+ <h1 align="center">Hello, I'm Kenny 👋 </br> Full Stack Web Developer student at Microverse💻👨‍💻</h1>
 </p>
 
 <p align="center">
