@@ -25,8 +25,3 @@
   <a align="center" href="https://github.com/kensayo"><img align="center" width="auto" height="57px" src="http://iconsetc.com/icons-watermarks/flat-square-white-on-black/social-media/social-media_github/social-media_github_flat-square-white-on-black_512x512.png"></a>
  <a align="center" href="mailto:kennyaoc@gmail.com"><img align="center" width="auto" height="55px" src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg"></a> 
 </p>
-
-<p align="center">
-  <h3 align="center">Here is an angry programming dog 😁</h3>
-  <img align="center" src="https://media.giphy.com/media/Ahb9gSd3WZZw9mHycV/source.gif"height="150px" width="auto">
-</p>
