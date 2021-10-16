@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img width="auto" height="25px" src="https://img.shields.io/badge/age-30-blue?style=for-the-badge">
+  <img width="auto" height="25px" src="https://img.shields.io/badge/age-31-blue?style=for-the-badge">
   <img width="auto" height="25px" src="https://img.shields.io/badge/living-Venezuela-blueviolet?style=for-the-badge">
   <img width="auto" height="25px" src="https://img.shields.io/badge/focus-backend-orange?style=for-the-badge">
   <img width="auto" height="25px" src="https://img.shields.io/badge/focus-frontend-brightgreen?style=for-the-badge">
